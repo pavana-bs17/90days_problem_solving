@@ -76,3 +76,4 @@ const nums3 = [1, 2];
 const nums4 = [3, 4];
 
 console.log(findMedianSortedArrays(nums3, nums4)); // Output: 2.50000
+
